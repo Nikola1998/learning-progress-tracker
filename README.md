@@ -5,4 +5,4 @@ Throughout this JetBrains project structure I've learned a lot about SOLID princ
 
 You can try out the app, it's quite self explaining.
 
-One of the first projects I've completed. I just need to add that whilst the biggest factor for the spaghetti structured code is of course my lack of experience and knowledge, but there was also preassure from the specific tests which validate the project - and they were quite very specific in what they were looking for (down to the each space character inside of the output).
+One of the first projects I've completed. I just need to add that whilst the biggest factor for the spaghetti structured code was of course my lack of experience and knowledge, there was also preassure from the specific tests which validate the project - and they were quite very specific in what they were looking for (down to the each space character inside of the output).
